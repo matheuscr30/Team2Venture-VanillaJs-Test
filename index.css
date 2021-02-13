@@ -1,0 +1,18 @@
+#helperText {
+    display: none;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#helperText .rendered, #helperText .total {
+    font-weight: 600;
+}
+
+#mainSquare {
+    margin: 30px auto 0 auto;
+    line-height: 0;
+}
+
+.childSquare {
+    display: inline-block;
+}
